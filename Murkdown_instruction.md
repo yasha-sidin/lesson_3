@@ -34,6 +34,10 @@
 
 ## Работа с таблицами
 
+|столбец 1|столбец 2|столбец 3|
+|-|-|-|
+|long in first one|long in second one|long in second one|
+
 ## Цитата
 
 ## Заключение
